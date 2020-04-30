@@ -16,3 +16,6 @@ The criteria for a correct processed item is based on the instructions in the pr
 - Status Completed
 - comment contains correct security hash - Pay close attention on the formula ([ClientID]-[ClientName]-[ClientCountry] - Example: AD38755-Austin Villacorta-Italy) with no spaces between the dashes and without the brackets.
 
+Note:
+* Exceeds Specifications Completed 100 / 100 Points
+ 
